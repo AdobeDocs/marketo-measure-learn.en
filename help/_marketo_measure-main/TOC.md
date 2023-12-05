@@ -106,3 +106,5 @@ auto-video-transcripts: true
   + Boomerang Stage{#boomerang-stage}
     + [Introduction to boomerang stages](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
     + [Set up boomerang stages](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Evangelist talks {#evangelist}
+  + [Marketing attribution and metrics](/help/evangelist-talks/attribution-and-metrics.md)
