@@ -66,8 +66,6 @@ auto-video-transcripts: true
   + [Determine which channel is performing (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
   + [Determine which channel is performing (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
   + [Discover Funnel Reporting (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Live Chat {#live-chat}
-  + [Marketing Attribution and Metrics](/help/_assets/marketing attribution and metrics.md)
 + Definitions{#definitions}
   + Touchpoints{#touchpoints}
     + [What is a touchpoint?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
