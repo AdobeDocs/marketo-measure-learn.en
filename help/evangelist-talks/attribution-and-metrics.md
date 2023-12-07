@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-12-01
 jira: KT-14614
 thumbnail: 3425898.jpeg
+exl-id: f1e11f9c-a88f-4c7d-9678-559a5c8a9e86
 ---
-
 # Marketing Attribution and Metrics
 
 Andy Schneider, Adobe Solutions Consultant, and Ian Michels, Adobe Marketo evangelist, discuss the difference between marketing attribution and marketing metrics. There are reporting software out on the market that state they do attribution but in reality they are reporting on marketing metrics. In this discussion you will learn what questions to ask while in the sales process, how to decipher what software is marketing attribution or metric specific, and how to scale your marketing attribution needs.
