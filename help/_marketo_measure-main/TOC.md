@@ -107,3 +107,5 @@ auto-video-transcripts: true
 + Evangelist talks {#evangelist}
   + [Marketing attribution and metrics](/help/evangelist-talks/attribution-and-metrics.md)
   + [Marketing attribution maturity](/help/evangelist-talks/marketing-attribution-maturity.md)
+  + [Marketing attribution and data silos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
+  
