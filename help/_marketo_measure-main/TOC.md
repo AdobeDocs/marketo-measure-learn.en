@@ -108,4 +108,5 @@ auto-video-transcripts: true
   + [Marketing attribution and metrics](/help/evangelist-talks/attribution-and-metrics.md)
   + [Marketing attribution maturity](/help/evangelist-talks/marketing-attribution-maturity.md)
   + [Marketing attribution and data silos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-  
++ Experience League Live Recordings{#experience-league-live-recordings}
+  + [Marketo Measure's New Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
