@@ -2,12 +2,14 @@
 cloud: Experience Cloud
 solution: Marketo Measure
 feature-set: Marketo Measure
+landing-page-name: marketo-measure
+landing-page-breadcrumb-title: Marketo Measure
 product: Marketo
 type: Tutorial
 doc-type: video
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
