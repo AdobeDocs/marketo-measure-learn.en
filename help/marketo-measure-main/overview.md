@@ -22,3 +22,4 @@ This user guide contains videos and tutorials on features and capabilities of Ma
 
 * **[Marketo Measure's New Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
 *Learn about the new, completely revamped Discover Dashboards.*
+
